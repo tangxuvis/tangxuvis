@@ -1,0 +1,1 @@
+!function(o){var t=o("#totop");t.hide(),o(window).scroll(function(){1e3<o(document).scrollTop()?o(t).stop().fadeTo(300,1):o(t).stop().fadeTo(300,0)}),o(t).click(function(){return o("html, body").animate({scrollTop:0},500),!1})}(jQuery);

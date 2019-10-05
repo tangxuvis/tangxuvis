@@ -114,27 +114,6 @@ Pyramidbox++ 人脸检测模型
   </entry>
   
   <entry>
-    <title>News:1st place at hard set in [Widerface leaderboard</title>
-    <link href="http://yoursite.com/2019/03/04/widerface201903/"/>
-    <id>http://yoursite.com/2019/03/04/widerface201903/</id>
-    <published>2019-03-04T15:36:59.000Z</published>
-    <updated>2019-10-05T17:12:44.700Z</updated>
-    
-    <content type="html"><![CDATA[<p>1st place at hard set in <a href="http://shuoyang1213.me/WIDERFACE/" target="_blank" rel="noopener">Widerface leaderboard</a>.</p><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;1st place at hard set in &lt;a href=&quot;http://shuoyang1213.me/WIDERFACE/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Widerface leaderboard&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Leaderboard" scheme="http://yoursite.com/tags/Leaderboard/"/>
-    
-  </entry>
-  
-  <entry>
     <title>News:1 paper submited to arxiv</title>
     <link href="http://yoursite.com/2019/03/04/arxiv2019_pyramidbox_plus_plus/"/>
     <id>http://yoursite.com/2019/03/04/arxiv2019_pyramidbox_plus_plus/</id>
@@ -157,6 +136,27 @@ Pyramidbox++ 人脸检测模型
     
     
       <category term="Publications" scheme="http://yoursite.com/tags/Publications/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>News:1st place at hard set in [Widerface leaderboard</title>
+    <link href="http://yoursite.com/2019/03/04/widerface201903/"/>
+    <id>http://yoursite.com/2019/03/04/widerface201903/</id>
+    <published>2019-03-04T15:36:59.000Z</published>
+    <updated>2019-10-05T17:12:44.700Z</updated>
+    
+    <content type="html"><![CDATA[<p>1st place at hard set in <a href="http://shuoyang1213.me/WIDERFACE/" target="_blank" rel="noopener">Widerface leaderboard</a>.</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;1st place at hard set in &lt;a href=&quot;http://shuoyang1213.me/WIDERFACE/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Widerface leaderboard&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Leaderboard" scheme="http://yoursite.com/tags/Leaderboard/"/>
     
   </entry>
   

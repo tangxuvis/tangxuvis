@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2019-10-05T19:22:51.539Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/recruitment/index.html</loc>
+    
+    <lastmod>2019-10-05T19:20:54.747Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/07/04/iccv2019_vot/</loc>
     
     <lastmod>2019-10-05T19:20:29.016Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/Recruitment/index.html</loc>
-    
-    <lastmod>2019-10-05T18:57:59.080Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2019-10-05T18:52:15.887Z</lastmod>
     
   </url>
   

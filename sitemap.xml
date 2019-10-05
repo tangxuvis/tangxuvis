@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/07/04/cvpr2018_face_aging/</loc>
+    
+    <lastmod>2019-10-05T15:56:31.222Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/04/hello-world/</loc>
+    
+    <lastmod>2019-10-05T15:56:13.795Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/resume/index.html</loc>
     
     <lastmod>2019-10-05T15:52:01.039Z</lastmod>
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/10/04/cvpr2018_face_aging/</loc>
-    
-    <lastmod>2019-10-05T15:45:53.919Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2019-10-04T17:30:02.777Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/10/04/hello-world/</loc>
-    
-    <lastmod>2019-10-04T12:49:08.325Z</lastmod>
     
   </url>
   

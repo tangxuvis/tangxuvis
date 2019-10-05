@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/07/04/iccv2019_vot/</loc>
+    
+    <lastmod>2019-10-05T19:20:29.016Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/Recruitment/index.html</loc>
     
     <lastmod>2019-10-05T18:57:59.080Z</lastmod>
@@ -75,13 +82,6 @@
     <loc>http://yoursite.com/2019/08/04/iccv2019_wider_challenge/</loc>
     
     <lastmod>2019-10-05T17:18:37.416Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/07/04/iccv2019_vot/</loc>
-    
-    <lastmod>2019-10-05T17:12:04.604Z</lastmod>
     
   </url>
   

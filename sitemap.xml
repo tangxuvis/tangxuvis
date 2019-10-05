@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/07/04/iccv2019_vot/</loc>
+    
+    <lastmod>2019-10-05T17:57:02.426Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2019-10-05T17:55:18.856Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>http://yoursite.com/2019/03/04/widerface201903/</loc>
     
     <lastmod>2019-10-05T17:12:44.700Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/07/04/iccv2019_vot/</loc>
-    
-    <lastmod>2019-10-05T17:12:04.604Z</lastmod>
     
   </url>
   

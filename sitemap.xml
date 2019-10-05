@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2019-10-05T17:45:37.760Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2018/09/04/eccv2018_pyramidbox/</loc>
     
     <lastmod>2019-10-05T17:45:33.344Z</lastmod>
@@ -26,6 +19,76 @@
     <loc>http://yoursite.com/2018/07/04/cvpr2018_face_aging/</loc>
     
     <lastmod>2019-10-05T17:42:52.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/03/04/arxiv2019_pyramidbox_plus_plus/</loc>
+    
+    <lastmod>2019-10-05T17:23:02.622Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/09/04/tifs2019_daf/</loc>
+    
+    <lastmod>2019-10-05T17:20:02.235Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/04/arxiv2019_dubox/</loc>
+    
+    <lastmod>2019-10-05T17:19:21.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/04/widerface201803/</loc>
+    
+    <lastmod>2019-10-05T17:19:03.542Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/08/04/iccv2019_wider_challenge/</loc>
+    
+    <lastmod>2019-10-05T17:18:37.416Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/03/04/widerface201903/</loc>
+    
+    <lastmod>2019-10-05T17:12:44.700Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/07/04/iccv2019_vot/</loc>
+    
+    <lastmod>2019-10-05T17:12:04.604Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/resume/index.html</loc>
+    
+    <lastmod>2019-10-05T17:02:02.902Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2019-10-05T16:55:49.361Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2019-10-05T15:51:15.332Z</lastmod>
     
   </url>
   

@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2018/07/04/cvpr2018_face_aging/</loc>
+    <loc>http://yoursite.com/imgs/eccv2018_pyramidbox/architecture_of_pyramidbox.html</loc>
     
-    <lastmod>2019-10-05T16:13:57.991Z</lastmod>
+    <lastmod>2019-10-05T16:22:35.103Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2019-10-05T16:20:24.178Z</lastmod>
     
   </url>
   

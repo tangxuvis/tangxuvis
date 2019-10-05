@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-05T16:34:45.018Z</updated>
+  <updated>2019-10-05T16:38:08.734Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2019/03/04/arxiv2019_pyramidbox++/"/>
     <id>http://yoursite.com/2019/03/04/arxiv2019_pyramidbox++/</id>
     <published>2019-03-04T15:36:59.000Z</published>
-    <updated>2019-10-05T16:34:45.018Z</updated>
+    <updated>2019-10-05T16:38:08.734Z</updated>
     
-    <content type="html"><![CDATA[<p>#<a href="https://arxiv.org/pdf/1904.00386.pdf" target="_blank" rel="noopener">PyramidBox++: High Performance Detector for Finding Tiny Face</a></p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>With the rapid development of deep convolutional neural network, face detection has made great progress in recent years. WIDER FACE dataset, as a main benchmark, contributes greatly to this area. A large amount of methods have been put forward where PyramidBox designs an effective data augmentation strategy(Data-anchor-sampling) and context-based module for face detector. In this report, we improve each part to further boost the performance, including Balanced-dataanchor-sampling, Dual-PyramidAnchors and Dense Context Module. Specifically, Balanced-data-anchor-sampling obtains more uniform sampling of faces with different sizes. Dual-PyramidAnchors facilitate feature learning by introducing progressive anchor loss. Dense Context Module with dense connection not only enlarges receptive filed, but also passes information efficiently. Integrating these techniques, PyramidBox++ is constructed and achieves state-of-the-art performance in hard set.</p><p align="center"><img src="/imgs/arxiv2019_pyramidbox_plus_plus/architecture.jpg" height="400" width="600" hspace="10"> <br>Pyramidbox++ 人脸检测模型</p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://arxiv.org/pdf/1904.00386.pdf" target="_blank" rel="noopener">PyramidBox++: High Performance Detector for Finding Tiny Face</a></p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>With the rapid development of deep convolutional neural network, face detection has made great progress in recent years. WIDER FACE dataset, as a main benchmark, contributes greatly to this area. A large amount of methods have been put forward where PyramidBox designs an effective data augmentation strategy(Data-anchor-sampling) and context-based module for face detector. In this report, we improve each part to further boost the performance, including Balanced-dataanchor-sampling, Dual-PyramidAnchors and Dense Context Module. Specifically, Balanced-data-anchor-sampling obtains more uniform sampling of faces with different sizes. Dual-PyramidAnchors facilitate feature learning by introducing progressive anchor loss. Dense Context Module with dense connection not only enlarges receptive filed, but also passes information efficiently. Integrating these techniques, PyramidBox++ is constructed and achieves state-of-the-art performance in hard set.</p><p align="center"><img src="/imgs/arxiv2019_pyramidbox_plus_plus/architecture.jpg" height="400" width="600" hspace="10"> <br>Pyramidbox++ 人脸检测模型</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#&lt;a href=&quot;https://arxiv.org/pdf/1904.00386.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PyramidBox++: High Performance Detector for Finding Tiny F
+        &lt;p&gt;&lt;a href=&quot;https://arxiv.org/pdf/1904.00386.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PyramidBox++: High Performance Detector for Finding Tiny Fa
       
     
     </summary>

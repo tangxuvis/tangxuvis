@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/resume/index.html</loc>
+    
+    <lastmod>2019-10-05T16:53:38.436Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/03/04/arxiv2019_pyramidbox++/</loc>
+    
+    <lastmod>2019-10-05T16:38:08.734Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/09/04/eccv2018_pyramidbox/</loc>
     
     <lastmod>2019-10-05T16:34:51.885Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://yoursite.com/2018/07/04/cvpr2018_face_aging/</loc>
     
     <lastmod>2019-10-05T16:34:48.513Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/03/04/arxiv2019_pyramidbox++/</loc>
-    
-    <lastmod>2019-10-05T16:34:45.018Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>http://yoursite.com/2017/08/04/hello-world/</loc>
     
     <lastmod>2019-10-05T15:56:13.795Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/resume/index.html</loc>
-    
-    <lastmod>2019-10-05T15:52:01.039Z</lastmod>
     
   </url>
   

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-04T12:51:57.958Z</updated>
+  <updated>2019-10-05T15:45:53.919Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,16 +18,16 @@
   
   <entry>
     <title>1 paper at CVPR2018</title>
-    <link href="http://yoursite.com/2019/10/04/cvpr2018/"/>
-    <id>http://yoursite.com/2019/10/04/cvpr2018/</id>
+    <link href="http://yoursite.com/2019/10/04/cvpr2018_face_aging/"/>
+    <id>http://yoursite.com/2019/10/04/cvpr2018_face_aging/</id>
     <published>2019-10-04T06:58:48.600Z</published>
-    <updated>2019-10-04T12:51:57.958Z</updated>
+    <updated>2019-10-05T15:45:53.919Z</updated>
     
-    <content type="html"><![CDATA[<p>This repo is the official open source of <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Face_Aging_With_CVPR_2018_paper.pdf" target="_blank" rel="noopener">Face Aging with Identity-Preserved Conditional Generative Adversarial Networks, CVPR 2018</a> by Zongwei Wang, Xu Tang, Weixin Luo and Shenghua Gao.<br>It is implemented in tensorflow. Please follow the instructions to run the code.</p><a id="more"></a><p><img src="imgs/cvpr/cvpr2018_framework.jpeg" alt="scalars_framework"></p>]]></content>
+    <content type="html"><![CDATA[<p>This repo is the official open source of <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Face_Aging_With_CVPR_2018_paper.pdf" target="_blank" rel="noopener">Face Aging with Identity-Preserved Conditional Generative Adversarial Networks, CVPR 2018</a> by Zongwei Wang, Xu Tang, Weixin Luo and Shenghua Gao.<br>It is implemented in tensorflow. Please follow the instructions to run the code.<br><img src="/imgs/cvpr/cvpr2018_framework.jpeg" alt="scalars_framework"></p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;This repo is the official open source of &lt;a href=&quot;http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Face_Aging_With_CVPR_2018_paper.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Face Aging with Identity-Preserved Conditional Generative Adversarial Networks, CVPR 2018&lt;/a&gt; by Zongwei Wang, Xu Tang, Weixin Luo and Shenghua Gao.&lt;br&gt;It is implemented in tensorflow. Please follow the instructions to run the code.&lt;/p&gt;
+      &lt;p&gt;This repo is the official open source of &lt;a href=&quot;http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Face_Aging_With_CVPR_2018_paper.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Face Aging with Identity-Preserved Conditional Generative Adversarial Networks, CVPR 2018&lt;/a&gt; by Zongwei Wang, Xu Tang, Weixin Luo and Shenghua Gao.&lt;br&gt;It is implemented in tensorflow. Please follow the instructions to run the code.&lt;br&gt;&lt;img src=&quot;/imgs/cvpr/cvpr2018_framework.jpeg&quot; alt=&quot;scalars_framework&quot;&gt;&lt;/p&gt;
     
     </summary>
     

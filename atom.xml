@@ -5,9 +5,9 @@
   <subtitle>Computer Vision &amp; Deep Learning &amp; Face Detection &amp; Object detection &amp; Object Tracking</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://tangxuvis.com/"/>
+  <link href="http://tangxuvis.github.io/"/>
   <updated>2019-10-05T18:28:46.148Z</updated>
-  <id>http://tangxuvis.com/</id>
+  <id>http://tangxuvis.github.io/</id>
   
   <author>
     <name>Xu Tang&#39;s Homepages</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>News:1 paper accepted by TIFS2019</title>
-    <link href="http://tangxuvis.com/2019/09/04/tifs2019_daf/"/>
-    <id>http://tangxuvis.com/2019/09/04/tifs2019_daf/</id>
+    <link href="http://tangxuvis.github.io/2019/09/04/tifs2019_daf/"/>
+    <id>http://tangxuvis.github.io/2019/09/04/tifs2019_daf/</id>
     <published>2019-09-04T15:36:59.000Z</published>
     <updated>2019-10-05T18:28:46.148Z</updated>
     
@@ -36,14 +36,14 @@
     
     
     
-      <category term="Publications" scheme="http://tangxuvis.com/tags/Publications/"/>
+      <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
     
   </entry>
   
   <entry>
     <title>News:1st place and 1 invited talk in face detection track on ICCV Wider Challenge 2019</title>
-    <link href="http://tangxuvis.com/2019/08/04/iccv2019_wider_challenge/"/>
-    <id>http://tangxuvis.com/2019/08/04/iccv2019_wider_challenge/</id>
+    <link href="http://tangxuvis.github.io/2019/08/04/iccv2019_wider_challenge/"/>
+    <id>http://tangxuvis.github.io/2019/08/04/iccv2019_wider_challenge/</id>
     <published>2019-08-04T15:36:59.000Z</published>
     <updated>2019-10-05T17:18:37.416Z</updated>
     
@@ -61,14 +61,14 @@ ICCV Wider Challenge优胜方案
     
     
     
-      <category term="Challenge" scheme="http://tangxuvis.com/tags/Challenge/"/>
+      <category term="Challenge" scheme="http://tangxuvis.github.io/tags/Challenge/"/>
     
   </entry>
   
   <entry>
     <title>News:1st place and 1 invited talk in VOT-ST2019</title>
-    <link href="http://tangxuvis.com/2019/07/04/iccv2019_vot/"/>
-    <id>http://tangxuvis.com/2019/07/04/iccv2019_vot/</id>
+    <link href="http://tangxuvis.github.io/2019/07/04/iccv2019_vot/"/>
+    <id>http://tangxuvis.github.io/2019/07/04/iccv2019_vot/</id>
     <published>2019-07-04T15:36:59.000Z</published>
     <updated>2019-10-05T19:20:29.016Z</updated>
     
@@ -86,14 +86,14 @@ vot优胜方案
     
     
     
-      <category term="Challenge" scheme="http://tangxuvis.com/tags/Challenge/"/>
+      <category term="Challenge" scheme="http://tangxuvis.github.io/tags/Challenge/"/>
     
   </entry>
   
   <entry>
     <title>News:1 paper submited to arxiv</title>
-    <link href="http://tangxuvis.com/2019/04/04/arxiv2019_dubox/"/>
-    <id>http://tangxuvis.com/2019/04/04/arxiv2019_dubox/</id>
+    <link href="http://tangxuvis.github.io/2019/04/04/arxiv2019_dubox/"/>
+    <id>http://tangxuvis.github.io/2019/04/04/arxiv2019_dubox/</id>
     <published>2019-04-04T15:36:59.000Z</published>
     <updated>2019-10-05T18:25:12.423Z</updated>
     
@@ -111,14 +111,14 @@ vot优胜方案
     
     
     
-      <category term="Publications" scheme="http://tangxuvis.com/tags/Publications/"/>
+      <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
     
   </entry>
   
   <entry>
     <title>News:1 paper submited to arxiv</title>
-    <link href="http://tangxuvis.com/2019/03/04/arxiv2019_pyramidbox_plus_plus/"/>
-    <id>http://tangxuvis.com/2019/03/04/arxiv2019_pyramidbox_plus_plus/</id>
+    <link href="http://tangxuvis.github.io/2019/03/04/arxiv2019_pyramidbox_plus_plus/"/>
+    <id>http://tangxuvis.github.io/2019/03/04/arxiv2019_pyramidbox_plus_plus/</id>
     <published>2019-03-04T15:36:59.000Z</published>
     <updated>2019-10-05T18:25:16.838Z</updated>
     
@@ -136,14 +136,14 @@ vot优胜方案
     
     
     
-      <category term="Publications" scheme="http://tangxuvis.com/tags/Publications/"/>
+      <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
     
   </entry>
   
   <entry>
     <title>News:1st place at hard set in Widerface leaderboard</title>
-    <link href="http://tangxuvis.com/2019/03/04/widerface201903/"/>
-    <id>http://tangxuvis.com/2019/03/04/widerface201903/</id>
+    <link href="http://tangxuvis.github.io/2019/03/04/widerface201903/"/>
+    <id>http://tangxuvis.github.io/2019/03/04/widerface201903/</id>
     <published>2019-03-04T15:36:59.000Z</published>
     <updated>2019-10-05T18:28:24.208Z</updated>
     
@@ -157,14 +157,14 @@ vot优胜方案
     
     
     
-      <category term="Leaderboard" scheme="http://tangxuvis.com/tags/Leaderboard/"/>
+      <category term="Leaderboard" scheme="http://tangxuvis.github.io/tags/Leaderboard/"/>
     
   </entry>
   
   <entry>
     <title>News:1 paper accepted by ECCV2018</title>
-    <link href="http://tangxuvis.com/2018/09/04/eccv2018_pyramidbox/"/>
-    <id>http://tangxuvis.com/2018/09/04/eccv2018_pyramidbox/</id>
+    <link href="http://tangxuvis.github.io/2018/09/04/eccv2018_pyramidbox/"/>
+    <id>http://tangxuvis.github.io/2018/09/04/eccv2018_pyramidbox/</id>
     <published>2018-09-04T15:36:59.000Z</published>
     <updated>2019-10-05T18:25:25.220Z</updated>
     
@@ -189,14 +189,14 @@ Pyramidbox 人脸检测模型
     
     
     
-      <category term="Publications" scheme="http://tangxuvis.com/tags/Publications/"/>
+      <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
     
   </entry>
   
   <entry>
     <title>News:1 paper accepted by CVPR2018</title>
-    <link href="http://tangxuvis.com/2018/07/04/cvpr2018_face_aging/"/>
-    <id>http://tangxuvis.com/2018/07/04/cvpr2018_face_aging/</id>
+    <link href="http://tangxuvis.github.io/2018/07/04/cvpr2018_face_aging/"/>
+    <id>http://tangxuvis.github.io/2018/07/04/cvpr2018_face_aging/</id>
     <published>2018-07-04T15:36:59.000Z</published>
     <updated>2019-10-05T18:25:20.939Z</updated>
     
@@ -210,14 +210,14 @@ Pyramidbox 人脸检测模型
     
     
     
-      <category term="Publications" scheme="http://tangxuvis.com/tags/Publications/"/>
+      <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
     
   </entry>
   
   <entry>
     <title>News:1st place at all 6 set in WiderFace Leaderboard and 1st place at discrete score in FDDB Leaderboard</title>
-    <link href="http://tangxuvis.com/2018/03/04/widerface201803/"/>
-    <id>http://tangxuvis.com/2018/03/04/widerface201803/</id>
+    <link href="http://tangxuvis.github.io/2018/03/04/widerface201803/"/>
+    <id>http://tangxuvis.github.io/2018/03/04/widerface201803/</id>
     <published>2018-03-04T15:36:59.000Z</published>
     <updated>2019-10-05T17:19:03.542Z</updated>
     
@@ -231,14 +231,14 @@ Pyramidbox 人脸检测模型
     
     
     
-      <category term="Leaderboard" scheme="http://tangxuvis.com/tags/Leaderboard/"/>
+      <category term="Leaderboard" scheme="http://tangxuvis.github.io/tags/Leaderboard/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://tangxuvis.com/2018/02/04/hello-world/"/>
-    <id>http://tangxuvis.com/2018/02/04/hello-world/</id>
+    <link href="http://tangxuvis.github.io/2018/02/04/hello-world/"/>
+    <id>http://tangxuvis.github.io/2018/02/04/hello-world/</id>
     <published>2018-02-04T15:36:59.000Z</published>
     <updated>2019-10-05T17:11:59.235Z</updated>
     

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2019-10-27T05:08:10.120Z</updated>
+  <updated>2019-11-04T06:06:30.167Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Share our PPT about &#39;Delveing into High Performance Detector for Finding Tiny Faces&#39; on ICCV</title>
+    <link href="http://tangxuvis.github.io/2019/11/04/iccv2019-workshop-ppt/"/>
+    <id>http://tangxuvis.github.io/2019/11/04/iccv2019-workshop-ppt/</id>
+    <published>2019-11-04T05:54:11.000Z</published>
+    <updated>2019-11-04T06:06:30.167Z</updated>
+    
+    <content type="html"><![CDATA[<p>On 11.02.2019, we give a presentation on ICCV, and this is the slides.<br>Link:<br><a href="https://pan.baidu.com/s/13VuTE7U3tL2OzuNGsmaYJg" target="_blank" rel="noopener">Baidu Cloud</a><br><a href="https://drive.google.com/open?id=1fu8r2hs96ChrhlPDHeVzQneVH1zd-2m8" target="_blank" rel="noopener">Google Drive</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;On 11.02.2019, we give a presentation on ICCV, and this is the slides.&lt;br&gt;Link:&lt;br&gt;&lt;a href=&quot;https://pan.baidu.com/s/13VuTE7U3tL2OzuNGsmaY
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>News:Our paper and code will be released in this page.</title>

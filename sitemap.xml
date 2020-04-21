@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tangxuvis.github.io/2020/04/21/history_of_face_detection/</loc>
+    
+    <lastmod>2020-04-21T08:39:29.518Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tangxuvis.github.io/2020/04/21/cvpr2020_hambox_bfbox/</loc>
+    
+    <lastmod>2020-04-21T08:33:56.725Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tangxuvis.github.io/2020/04/21/open_source_projects/</loc>
     
-    <lastmod>2020-04-21T08:21:24.730Z</lastmod>
+    <lastmod>2020-04-21T08:23:32.060Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://tangxuvis.github.io/2019/07/04/iccv2019_vot/</loc>
     
-    <lastmod>2020-04-21T08:18:58.500Z</lastmod>
+    <lastmod>2020-04-21T08:22:02.933Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://tangxuvis.github.io/2019/08/04/iccv2019_wider_challenge/</loc>
     
-    <lastmod>2020-04-21T08:16:27.621Z</lastmod>
+    <lastmod>2020-04-21T08:21:57.351Z</lastmod>
     
   </url>
   

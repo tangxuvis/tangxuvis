@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2020-04-21T08:21:24.730Z</updated>
+  <updated>2020-04-21T08:39:29.518Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -17,19 +17,75 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Open Source Projects</title>
+    <title>人脸检测技术发展及百度“框”实践</title>
+    <link href="http://tangxuvis.github.io/2020/04/21/history_of_face_detection/"/>
+    <id>http://tangxuvis.github.io/2020/04/21/history_of_face_detection/</id>
+    <published>2020-04-21T08:34:41.000Z</published>
+    <updated>2020-04-21T08:39:29.518Z</updated>
+    
+    <content type="html"><![CDATA[<p>撰文<a href="https://www.jiqizhixin.com/articles/2020-04-17-4?from=timeline&isappinstalled=0" target="_blank" rel="noopener">《人脸检测技术发展及百度“框”实践》</a>，发表在机器之心栏目。</p><p align="center"><img src="/imgs/cvpr2020/history.jpg" height="400" width="600" hspace="10"> <br></p><p align="center"><img src="/imgs/cvpr2020/introduction.jpg" height="400" width="600" hspace="10"> <br></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;撰文&lt;a href=&quot;https://www.jiqizhixin.com/articles/2020-04-17-4?from=timeline&amp;isappinstalled=0&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《人脸检测技术发展及百度“框”实践》&lt;/a&gt;，发表在机器之心栏目。&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020/history.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020/introduction.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>News:2 papers accepted by CVPR2020</title>
+    <link href="http://tangxuvis.github.io/2020/04/21/cvpr2020_hambox_bfbox/"/>
+    <id>http://tangxuvis.github.io/2020/04/21/cvpr2020_hambox_bfbox/</id>
+    <published>2020-04-21T08:25:04.000Z</published>
+    <updated>2020-04-21T08:33:56.725Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://arxiv.org/abs/1912.09231" target="_blank" rel="noopener">HAMBox: Delving into Online High-quality Anchors Mining for Detecting Outer Faces</a></p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Current face detectors utilize anchors to frame a multi-task learning problem which combines classification and bounding box regression. Effective anchor design and anchor matching strategy enable face detectors to localize faces under large pose and scale variations. However, we observe that more than 80% correctly predicted bounding boxes are regressed from the unmatched anchors (the IoUs between anchors and target faces are lower than a threshold) in the inference phase. It indicates that these unmatched anchors perform excellent regression ability, but the existing methods neglect to learn from them. In this paper, we propose an Online High-quality Anchor Mining Strategy (HAMBox), which explicitly helps outer faces compensate with high-quality anchors. Our proposed HAMBox method could be a general strategy for anchor-based single-stage face detection. Experiments on various datasets, including WIDER FACE, FDDB, AFW and PASCAL Face, demonstrate the superiority of the proposed method. Furthermore, our team win the championship on the Face Detection test track of WIDER Face and Pedestrian Challenge 2019. We will release the codes with PaddlePaddle.</p><p align="center"><img src="/imgs/cvpr2020/cvpr2020_hambox.jpg" height="400" width="600" hspace="10"> <br></p><p>BFBox: Searching Face-appropriate Backbone and Feature Pyramid Network for Robust Face Detector</p><h2 id="Abstract-1"><a href="#Abstract-1" class="headerlink" title="Abstract"></a>Abstract</h2><p>本文提出的方法BFBox是基于神经网络架构搜索（NAS）的方法同时搜索适合人脸检测的特征提取器和特征金字塔。动机是我们发现了一个有趣的现象：针对图像分类任务设计的流行的特征提取器已经在通用目标检测任务上验证了其重要的兼容性，然而在人脸检测任务上却没有取得预期的效果。同时不同的特征提取器与特征金字塔的结合也不是完全正相关的。首先，本文对于比较好的特征提取器进行分析，提出了适合人脸的搜索空间；其次，提出了图1的特征金字塔注意力模块（FPN-attention Module）去加强特征提取器和特征金字塔之间的联系；最后, 采取SNAS的方法同时搜出适和人脸的特征提取器和特征金字塔结构。多个数据集上（WIDER FACE, FDDB, AFW和PASCAL Face）的实验表明了我们提出的方法的优越性。<br>如下图所示为检测网络的结构。网络是基于RetinaNet的结构加上我们提出的特征金字塔注意力模块（FPN-attention Module），训练超网络时采用的是随机采样的方法。</p><p align="center"><img src="/imgs/cvpr2020/cvpr2020_bfbox.jpg" height="400" width="600" hspace="10"> <br></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1912.09231&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HAMBox: Delving into Online High-quality Anchors Mining for Detecting Outer Faces&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Abstract&quot;&gt;&lt;a href=&quot;#Abstract&quot; class=&quot;headerlink&quot; title=&quot;Abstract&quot;&gt;&lt;/a&gt;Abstract&lt;/h2&gt;&lt;p&gt;Current face detectors utilize anchors to frame a multi-task learning problem which combines classification and bounding box regression. Effective anchor design and anchor matching strategy enable face detectors to localize faces under large pose and scale variations. However, we observe that more than 80% correctly predicted bounding boxes are regressed from the unmatched anchors (the IoUs between anchors and target faces are lower than a threshold) in the inference phase. It indicates that these unmatched anchors perform excellent regression ability, but the existing methods neglect to learn from them. In this paper, we propose an Online High-quality Anchor Mining Strategy (HAMBox), which explicitly helps outer faces compensate with high-quality anchors. Our proposed HAMBox method could be a general strategy for anchor-based single-stage face detection. Experiments on various datasets, including WIDER FACE, FDDB, AFW and PASCAL Face, demonstrate the superiority of the proposed method. Furthermore, our team win the championship on the Face Detection test track of WIDER Face and Pedestrian Challenge 2019. We will release the codes with PaddlePaddle.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020/cvpr2020_hambox.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;BFBox: Searching Face-appropriate Backbone and Feature Pyramid Network for Robust Face Detector&lt;/p&gt;
+&lt;h2 id=&quot;Abstract-1&quot;&gt;&lt;a href=&quot;#Abstract-1&quot; class=&quot;headerlink&quot; title=&quot;Abstract&quot;&gt;&lt;/a&gt;Abstract&lt;/h2&gt;&lt;p&gt;本文提出的方法BFBox是基于神经网络架构搜索（NAS）的方法同时搜索适合人脸检测的特征提取器和特征金字塔。动机是我们发现了一个有趣的现象：针对图像分类任务设计的流行的特征提取器已经在通用目标检测任务上验证了其重要的兼容性，然而在人脸检测任务上却没有取得预期的效果。同时不同的特征提取器与特征金字塔的结合也不是完全正相关的。首先，本文对于比较好的特征提取器进行分析，提出了适合人脸的搜索空间；其次，提出了图1的特征金字塔注意力模块（FPN-attention Module）去加强特征提取器和特征金字塔之间的联系；最后, 采取SNAS的方法同时搜出适和人脸的特征提取器和特征金字塔结构。多个数据集上（WIDER FACE, FDDB, AFW和PASCAL Face）的实验表明了我们提出的方法的优越性。&lt;br&gt;如下图所示为检测网络的结构。网络是基于RetinaNet的结构加上我们提出的特征金字塔注意力模块（FPN-attention Module），训练超网络时采用的是随机采样的方法。&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020/cvpr2020_bfbox.jpg&quot; height=&quot;400&quot; width=&quot;600&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Our Open Source Projects</title>
     <link href="http://tangxuvis.github.io/2020/04/21/open_source_projects/"/>
     <id>http://tangxuvis.github.io/2020/04/21/open_source_projects/</id>
     <published>2020-04-21T08:06:31.000Z</published>
-    <updated>2020-04-21T08:21:24.730Z</updated>
+    <updated>2020-04-21T08:23:32.060Z</updated>
     
-    <content type="html"><![CDATA[<p>##基于身份保持的条件对抗生成网络的人脸老化IPCGAN (CVPR2018)<br><a href="https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks" target="_blank" rel="noopener">https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks</a><br>##PyramidBox人脸检测器 (ECCV2018)<br><a href="https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/face_detection" target="_blank" rel="noopener">https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/face_detection</a><br>##人脸检测轻量化模型faceboxes和blazeface<br><a href="https://github.com/PaddlePaddle/PaddleDetection/tree/release/0.2/configs/face_detection" target="_blank" rel="noopener">https://github.com/PaddlePaddle/PaddleDetection/tree/release/0.2/configs/face_detection</a><br>##[抗击肺炎] 口罩人脸检测与分类<br><a href="https://www.paddlepaddle.org.cn/hub/scene/maskdetect" target="_blank" rel="noopener">https://www.paddlepaddle.org.cn/hub/scene/maskdetect</a></p>]]></content>
+    <content type="html"><![CDATA[<p>基于身份保持的条件对抗生成网络的人脸老化IPCGAN (CVPR2018)<br><a href="https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks" target="_blank" rel="noopener">https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generative-Adversarial-Networks</a><br>PyramidBox人脸检测器 (ECCV2018)<br><a href="https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/face_detection" target="_blank" rel="noopener">https://github.com/PaddlePaddle/models/tree/develop/PaddleCV/face_detection</a><br>人脸检测轻量化模型faceboxes和blazeface<br><a href="https://github.com/PaddlePaddle/PaddleDetection/tree/release/0.2/configs/face_detection" target="_blank" rel="noopener">https://github.com/PaddlePaddle/PaddleDetection/tree/release/0.2/configs/face_detection</a><br>[抗击肺炎] 口罩人脸检测与分类<br><a href="https://www.paddlepaddle.org.cn/hub/scene/maskdetect" target="_blank" rel="noopener">https://www.paddlepaddle.org.cn/hub/scene/maskdetect</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;##基于身份保持的条件对抗生成网络的人脸老化IPCGAN (CVPR2018)&lt;br&gt;&lt;a href=&quot;https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Genera
+        &lt;p&gt;基于身份保持的条件对抗生成网络的人脸老化IPCGAN (CVPR2018)&lt;br&gt;&lt;a href=&quot;https://github.com/dawei6875797/Face-Aging-with-Identity-Preserved-Conditional-Generati
       
     
     </summary>
@@ -117,9 +173,9 @@ ICCV Wider Challenge优胜方案
     <link href="http://tangxuvis.github.io/2019/08/04/iccv2019_wider_challenge/"/>
     <id>http://tangxuvis.github.io/2019/08/04/iccv2019_wider_challenge/</id>
     <published>2019-08-04T15:36:59.000Z</published>
-    <updated>2020-04-21T08:16:27.621Z</updated>
+    <updated>2020-04-21T08:21:57.351Z</updated>
     
-    <content type="html"><![CDATA[<p>1st place and 1 invited talk in <a href="https://wider-challenge.org/2019.html" target="_blank" rel="noopener">face detection track on ICCV Wider Challenge 2019</a>. See you in Korea.</p><p align="center"><img src="/imgs/iccv2019_wider_challenge/leaderboard.jpg" hspace="10"> <br>ICCV Wider Challenge优胜方案</p><a id="more"></a><p>This is the slides.<br><a href="https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA" target="_blank" rel="noopener">Baidu Cloud</a><br>链接:<a href="https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA" target="_blank" rel="noopener">https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA</a>  密码:1hbx</p>]]></content>
+    <content type="html"><![CDATA[<p>1st place and 1 invited talk in <a href="https://wider-challenge.org/2019.html" target="_blank" rel="noopener">face detection track on ICCV Wider Challenge 2019</a>. See you in Korea.</p><p align="center"><img src="/imgs/iccv2019_wider_challenge/leaderboard.jpg" hspace="10"> <br>ICCV Wider Challenge优胜方案</p><p>This is the slides.<br><a href="https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA" target="_blank" rel="noopener">Baidu Cloud</a><br>链接:<a href="https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA" target="_blank" rel="noopener">https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA</a>  密码:1hbx</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
@@ -128,6 +184,8 @@ ICCV Wider Challenge优胜方案
 &lt;img src=&quot;/imgs/iccv2019_wider_challenge/leaderboard.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
 ICCV Wider Challenge优胜方案
 &lt;/p&gt;
+
+&lt;p&gt;This is the slides.&lt;br&gt;&lt;a href=&quot;https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Baidu Cloud&lt;/a&gt;&lt;br&gt;链接:&lt;a href=&quot;https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pan.baidu.com/s/1QKUp4NZGK0nBZWzUqhBoVA&lt;/a&gt;  密码:1hbx&lt;/p&gt;
     
     </summary>
     
@@ -142,9 +200,9 @@ ICCV Wider Challenge优胜方案
     <link href="http://tangxuvis.github.io/2019/07/04/iccv2019_vot/"/>
     <id>http://tangxuvis.github.io/2019/07/04/iccv2019_vot/</id>
     <published>2019-07-04T15:36:59.000Z</published>
-    <updated>2020-04-21T08:18:58.500Z</updated>
+    <updated>2020-04-21T08:22:02.933Z</updated>
     
-    <content type="html"><![CDATA[<p>1st place and 1 invited talk in <a href="http://www.votchallenge.net/vot2019/index.html" target="_blank" rel="noopener">VOT-ST2019</a>. See you in Korea.</p><p align="center"><img src="/imgs/iccv2019_vot/logo.jpg" hspace="10"> <br>vot优胜方案</p><a id="more"></a><p>This is the slides.<br><a href="https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg" target="_blank" rel="noopener">Baidu Cloud</a><br>链接:<a href="https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg" target="_blank" rel="noopener">https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg</a>  密码:6x0c</p>]]></content>
+    <content type="html"><![CDATA[<p>1st place and 1 invited talk in <a href="http://www.votchallenge.net/vot2019/index.html" target="_blank" rel="noopener">VOT-ST2019</a>. See you in Korea.</p><p align="center"><img src="/imgs/iccv2019_vot/logo.jpg" hspace="10"> <br>vot优胜方案</p><p>This is the slides.<br><a href="https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg" target="_blank" rel="noopener">Baidu Cloud</a><br>链接:<a href="https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg" target="_blank" rel="noopener">https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg</a>  密码:6x0c</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
@@ -153,6 +211,8 @@ ICCV Wider Challenge优胜方案
 &lt;img src=&quot;/imgs/iccv2019_vot/logo.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
 vot优胜方案
 &lt;/p&gt;
+
+&lt;p&gt;This is the slides.&lt;br&gt;&lt;a href=&quot;https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Baidu Cloud&lt;/a&gt;&lt;br&gt;链接:&lt;a href=&quot;https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pan.baidu.com/s/1TghiaHtvbroNkRRaSlOEpg&lt;/a&gt;  密码:6x0c&lt;/p&gt;
     
     </summary>
     

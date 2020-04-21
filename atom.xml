@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2019-11-04T06:21:16.105Z</updated>
+  <updated>2020-04-21T08:06:31.309Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://tangxuvis.github.io/2020/04/21/test/"/>
+    <id>http://tangxuvis.github.io/2020/04/21/test/</id>
+    <published>2020-04-21T08:06:31.000Z</published>
+    <updated>2020-04-21T08:06:31.309Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Share our PPT about &#39;Delveing into High Performance Detector for Finding Tiny Faces&#39; on ICCV</title>

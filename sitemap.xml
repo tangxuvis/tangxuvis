@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tangxuvis.github.io/resume/index.html</loc>
+    
+    <lastmod>2020-04-21T08:43:15.448Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tangxuvis.github.io/2020/04/21/history_of_face_detection/</loc>
     
     <lastmod>2020-04-21T08:39:29.518Z</lastmod>
@@ -124,13 +131,6 @@
     <loc>http://tangxuvis.github.io/2018/02/04/hello-world/</loc>
     
     <lastmod>2019-10-05T17:11:59.235Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tangxuvis.github.io/resume/index.html</loc>
-    
-    <lastmod>2019-10-05T17:02:02.902Z</lastmod>
     
   </url>
   

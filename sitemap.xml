@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tangxuvis.github.io/2019/07/04/iccv2019_vot/</loc>
+    
+    <lastmod>2020-04-21T08:18:19.766Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tangxuvis.github.io/2019/08/04/iccv2019_wider_challenge/</loc>
     
     <lastmod>2020-04-21T08:16:27.621Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://tangxuvis.github.io/404.html</loc>
     
     <lastmod>2019-10-05T19:46:23.109Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tangxuvis.github.io/2019/07/04/iccv2019_vot/</loc>
-    
-    <lastmod>2019-10-05T19:20:29.016Z</lastmod>
     
   </url>
   

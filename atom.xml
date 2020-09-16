@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2020-05-07T07:00:29.093Z</updated>
+  <updated>2020-09-16T01:49:09.559Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -17,13 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>News:1 oral papers accepted by ACMMM20</title>
+    <link href="http://tangxuvis.github.io/2020/05/16/acmmm2020-oral/"/>
+    <id>http://tangxuvis.github.io/2020/05/16/acmmm2020-oral/</id>
+    <published>2020-05-16T01:45:08.000Z</published>
+    <updated>2020-09-16T01:49:09.559Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://arxiv.org/abs/2008.11769" target="_blank" rel="noopener">Learning Global Structure Consistency for Robust Object Tracking</a></p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Fast appearance variations and the distractions of similar objects are two of the most challenging problems in visual object tracking. Unlike many existing trackers that focus on modeling only the target, in this work, we consider the \emph{transient variations of the whole scene}. The key insight is that the object correspondence and spatial layout of the whole scene are consistent (i.e., global structure consistency) in consecutive frames which helps to disambiguate the target from distractors. Moreover, modeling transient variations enables to localize the target under fast variations. Specifically, we propose an effective and efficient short-term model that learns to exploit the global structure consistency in a short time and thus can handle fast variations and distractors. Since short-term modeling falls short of handling occlusion and out of the views, we adopt the long-short term paradigm and use a long-term model that corrects the short-term model when it drifts away from the target or the target is not present. These two components are carefully combined to achieve the balance of stability and plasticity during tracking. We empirically verify that the proposed tracker can tackle the two challenging scenarios and validate it on large scale benchmarks. Remarkably, our tracker improves state-of-the-art-performance on VOT2018 from 0.440 to 0.460, GOT-10k from 0.611 to 0.640, and NFS from 0.619 to 0.629.</p><p align="center"><img src="/imgs/acmmm2020/acmmm_oral.jpg" hspace="10"> <br></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2008.11769&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Learning Global Structure Consistency for Robust Object Tracking&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Abstract&quot;&gt;&lt;a href=&quot;#Abstract&quot; class=&quot;headerlink&quot; title=&quot;Abstract&quot;&gt;&lt;/a&gt;Abstract&lt;/h2&gt;&lt;p&gt;Fast appearance variations and the distractions of similar objects are two of the most challenging problems in visual object tracking. Unlike many existing trackers that focus on modeling only the target, in this work, we consider the \emph{transient variations of the whole scene}. The key insight is that the object correspondence and spatial layout of the whole scene are consistent (i.e., global structure consistency) in consecutive frames which helps to disambiguate the target from distractors. Moreover, modeling transient variations enables to localize the target under fast variations. Specifically, we propose an effective and efficient short-term model that learns to exploit the global structure consistency in a short time and thus can handle fast variations and distractors. Since short-term modeling falls short of handling occlusion and out of the views, we adopt the long-short term paradigm and use a long-term model that corrects the short-term model when it drifts away from the target or the target is not present. These two components are carefully combined to achieve the balance of stability and plasticity during tracking. We empirically verify that the proposed tracker can tackle the two challenging scenarios and validate it on large scale benchmarks. Remarkably, our tracker improves state-of-the-art-performance on VOT2018 from 0.440 to 0.460, GOT-10k from 0.611 to 0.640, and NFS from 0.619 to 0.629.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/acmmm2020/acmmm_oral.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>将门---人脸检测技术发展及小尺度人脸检测“框”实践</title>
     <link href="http://tangxuvis.github.io/2020/05/07/jiangmen-talk/"/>
     <id>http://tangxuvis.github.io/2020/05/07/jiangmen-talk/</id>
     <published>2020-05-07T06:54:11.000Z</published>
-    <updated>2020-05-07T07:00:29.093Z</updated>
+    <updated>2020-09-16T01:30:52.017Z</updated>
     
-    <content type="html"><![CDATA[<p align="center"><img src="/imgs/jiangmen/jiangmen.jpg" hspace="10"> <br></p><p>将门社区技术分享，<a href="https://www.techbeat.net/talks/MTU4ODgzMjkxNzUwNi0zODQtMjExNTM=" target="_blank" rel="noopener">视频链接</a>/<a href="https://live.bilibili.com/22183939?share_source=copy_link&share_medium=iphone&bbid=Z249862A8BC970F74944972B5990CD87D408&ts=1588823884" target="_blank" rel="noopener">bilibili直播链接</a>。<br>ppt文件分享，<a href="https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA" target="_blank" rel="noopener">Baidu Cloud</a><br>链接:<a href="https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA" target="_blank" rel="noopener">https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA</a>  密码:sz34</p>]]></content>
+    <content type="html"><![CDATA[<p align="center"><img src="/imgs/jiangmen/jiangmen.jpg" hspace="10"> <br></p><p>将门社区技术分享，<a href="https://www.techbeat.net/talk-info?id=384" target="_blank" rel="noopener">techbeat官网链接</a> / <a href="https://www.bilibili.com/video/BV1qk4y1z7cV" target="_blank" rel="noopener">bilibili直播链接</a>。<br>ppt文件分享，<a href="https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA" target="_blank" rel="noopener">Baidu Cloud</a><br>链接:<a href="https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA" target="_blank" rel="noopener">https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA</a>  密码:sz34</p>]]></content>
     
     <summary type="html">
     
@@ -33,7 +56,7 @@
 &lt;img src=&quot;/imgs/jiangmen/jiangmen.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
 &lt;/p&gt;
 
-&lt;p&gt;将门社区技术分享，&lt;a href=&quot;https://www.techbeat.net/talks/MTU4OD
+&lt;p&gt;将门社区技术分享，&lt;a href=&quot;https://www.techbeat.net/talk-info?id
       
     
     </summary>

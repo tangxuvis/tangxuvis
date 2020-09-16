@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2020-09-16T02:05:07.499Z</updated>
+  <updated>2020-09-16T02:09:42.153Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>News:加入阿里巴巴集团</title>
+    <link href="http://tangxuvis.github.io/2020/06/22/join-alibaba/"/>
+    <id>http://tangxuvis.github.io/2020/06/22/join-alibaba/</id>
+    <published>2020-06-22T06:54:11.000Z</published>
+    <updated>2020-09-16T02:09:42.153Z</updated>
+    
+    <content type="html"><![CDATA[<p>很荣幸能够加入阿里巴巴，希望在接下来的几年能够继续努力、高效、快乐的工作，做出更多有意义、有价值、有影响力的科研成果和产品。</p><p align="center"><img src="/imgs/alibaba/alibaba.jpg" hspace="10"> <br></p><p>另外，本人在招Research Intern和社招。目前还有两个名额，要求有一作顶会，或者其他方面的能力比较突出。欢迎感兴趣的同学可以邮件（或微信）联系我：<a href="mailto:buhui.tx@alibaba-inc.com" target="_blank" rel="noopener">buhui.tx@alibaba-inc.com</a><br>期待你的加入。</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;很荣幸能够加入阿里巴巴，希望在接下来的几年能够继续努力、高效、快乐的工作，做出更多有意义、有价值、有影响力的科研成果和产品。&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/alibaba/alibaba.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;另外，本人在招Research Intern和社招。目前还有两个名额，要求有一作顶会，或者其他方面的能力比较突出。欢迎感兴趣的同学可以邮件（或微信）联系我：&lt;a href=&quot;mailto:buhui.tx@alibaba-inc.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;buhui.tx@alibaba-inc.com&lt;/a&gt;&lt;br&gt;期待你的加入。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>字节跳动---人脸检测技术发展及小尺度人脸检测“框”实践</title>
@@ -185,6 +209,34 @@
     
     
       <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>News:2nd place in CVPR UG2+ Challenge 2020</title>
+    <link href="http://tangxuvis.github.io/2020/04/16/cvpr2020-ug2challenge/"/>
+    <id>http://tangxuvis.github.io/2020/04/16/cvpr2020-ug2challenge/</id>
+    <published>2020-04-16T01:35:59.000Z</published>
+    <updated>2020-09-16T02:10:06.764Z</updated>
+    
+    <content type="html"><![CDATA[<p>2nd place in the (SEMI-)SUPERVISED FACE DETECTION IN LOW LIGHT CONDITIONS track on <a href="http://cvpr2020.ug2challenge.org/leaderboard20_t1.html" target="_blank" rel="noopener">CVPR UG2+ Challenge 2020</a>.<br>The <a href="https://drive.google.com/file/d/1ogI0veozUtUO0qIgG-ce_jz8_hBeKV1Z/view" target="_blank" rel="noopener">fact sheet</a> can be seen here.</p><p align="center"><img src="/imgs/cvpr2020_ug2_challenge/hambox.jpg" hspace="10"> <br></p><p align="center"><img src="/imgs/cvpr2020_ug2_challenge/leaderboard.jpg" hspace="10"> <br></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2nd place in the (SEMI-)SUPERVISED FACE DETECTION IN LOW LIGHT CONDITIONS track on &lt;a href=&quot;http://cvpr2020.ug2challenge.org/leaderboard20_t1.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CVPR UG2+ Challenge 2020&lt;/a&gt;.&lt;br&gt;The &lt;a href=&quot;https://drive.google.com/file/d/1ogI0veozUtUO0qIgG-ce_jz8_hBeKV1Z/view&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;fact sheet&lt;/a&gt; can be seen here.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020_ug2_challenge/hambox.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020_ug2_challenge/leaderboard.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Challenge" scheme="http://tangxuvis.github.io/tags/Challenge/"/>
     
   </entry>
   
@@ -456,25 +508,6 @@ Pyramidbox 人脸检测模型
     
     
       <category term="Leaderboard" scheme="http://tangxuvis.github.io/tags/Leaderboard/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://tangxuvis.github.io/2018/02/04/hello-world/"/>
-    <id>http://tangxuvis.github.io/2018/02/04/hello-world/</id>
-    <published>2018-02-04T15:36:59.000Z</published>
-    <updated>2019-10-05T17:11:59.235Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
     
   </entry>
   

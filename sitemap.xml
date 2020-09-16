@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tangxuvis.github.io/resume/index.html</loc>
+    
+    <lastmod>2020-09-16T02:28:23.275Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tangxuvis.github.io/2020/04/16/cvpr2020-ug2challenge/</loc>
     
     <lastmod>2020-09-16T02:10:06.764Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://tangxuvis.github.io/about/index.html</loc>
     
     <lastmod>2020-04-25T15:23:35.760Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tangxuvis.github.io/resume/index.html</loc>
-    
-    <lastmod>2020-04-21T08:43:15.448Z</lastmod>
     
   </url>
   

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2020-09-16T02:09:42.153Z</updated>
+  <updated>2020-09-16T03:10:23.458Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>News:加入阿里巴巴集团</title>
+    <title>News:Join in Alibaba</title>
     <link href="http://tangxuvis.github.io/2020/06/22/join-alibaba/"/>
     <id>http://tangxuvis.github.io/2020/06/22/join-alibaba/</id>
     <published>2020-06-22T06:54:11.000Z</published>
-    <updated>2020-09-16T02:09:42.153Z</updated>
+    <updated>2020-09-16T03:10:23.458Z</updated>
     
     <content type="html"><![CDATA[<p>很荣幸能够加入阿里巴巴，希望在接下来的几年能够继续努力、高效、快乐的工作，做出更多有意义、有价值、有影响力的科研成果和产品。</p><p align="center"><img src="/imgs/alibaba/alibaba.jpg" hspace="10"> <br></p><p>另外，本人在招Research Intern和社招。目前还有两个名额，要求有一作顶会，或者其他方面的能力比较突出。欢迎感兴趣的同学可以邮件（或微信）联系我：<a href="mailto:buhui.tx@alibaba-inc.com" target="_blank" rel="noopener">buhui.tx@alibaba-inc.com</a><br>期待你的加入。</p><a id="more"></a>]]></content>
     
@@ -84,6 +84,34 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>News:2nd place in CVPR UG2+ Challenge 2020</title>
+    <link href="http://tangxuvis.github.io/2020/05/16/cvpr2020-ug2challenge/"/>
+    <id>http://tangxuvis.github.io/2020/05/16/cvpr2020-ug2challenge/</id>
+    <published>2020-05-16T01:35:59.000Z</published>
+    <updated>2020-09-16T03:07:13.415Z</updated>
+    
+    <content type="html"><![CDATA[<p>2nd place in the (SEMI-)SUPERVISED FACE DETECTION IN LOW LIGHT CONDITIONS track on <a href="http://cvpr2020.ug2challenge.org/leaderboard20_t1.html" target="_blank" rel="noopener">CVPR UG2+ Challenge 2020</a>.<br>The <a href="https://drive.google.com/file/d/1ogI0veozUtUO0qIgG-ce_jz8_hBeKV1Z/view" target="_blank" rel="noopener">fact sheet</a> can be seen here.</p><p align="center"><img src="/imgs/cvpr2020_ug2_challenge/hambox.jpg" hspace="10"> <br></p><p align="center"><img src="/imgs/cvpr2020_ug2_challenge/leaderboard.jpg" hspace="10"> <br></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2nd place in the (SEMI-)SUPERVISED FACE DETECTION IN LOW LIGHT CONDITIONS track on &lt;a href=&quot;http://cvpr2020.ug2challenge.org/leaderboard20_t1.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CVPR UG2+ Challenge 2020&lt;/a&gt;.&lt;br&gt;The &lt;a href=&quot;https://drive.google.com/file/d/1ogI0veozUtUO0qIgG-ce_jz8_hBeKV1Z/view&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;fact sheet&lt;/a&gt; can be seen here.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020_ug2_challenge/hambox.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/cvpr2020_ug2_challenge/leaderboard.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Challenge" scheme="http://tangxuvis.github.io/tags/Challenge/"/>
     
   </entry>
   
@@ -209,34 +237,6 @@
     
     
       <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>News:2nd place in CVPR UG2+ Challenge 2020</title>
-    <link href="http://tangxuvis.github.io/2020/04/16/cvpr2020-ug2challenge/"/>
-    <id>http://tangxuvis.github.io/2020/04/16/cvpr2020-ug2challenge/</id>
-    <published>2020-04-16T01:35:59.000Z</published>
-    <updated>2020-09-16T02:10:06.764Z</updated>
-    
-    <content type="html"><![CDATA[<p>2nd place in the (SEMI-)SUPERVISED FACE DETECTION IN LOW LIGHT CONDITIONS track on <a href="http://cvpr2020.ug2challenge.org/leaderboard20_t1.html" target="_blank" rel="noopener">CVPR UG2+ Challenge 2020</a>.<br>The <a href="https://drive.google.com/file/d/1ogI0veozUtUO0qIgG-ce_jz8_hBeKV1Z/view" target="_blank" rel="noopener">fact sheet</a> can be seen here.</p><p align="center"><img src="/imgs/cvpr2020_ug2_challenge/hambox.jpg" hspace="10"> <br></p><p align="center"><img src="/imgs/cvpr2020_ug2_challenge/leaderboard.jpg" hspace="10"> <br></p><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2nd place in the (SEMI-)SUPERVISED FACE DETECTION IN LOW LIGHT CONDITIONS track on &lt;a href=&quot;http://cvpr2020.ug2challenge.org/leaderboard20_t1.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CVPR UG2+ Challenge 2020&lt;/a&gt;.&lt;br&gt;The &lt;a href=&quot;https://drive.google.com/file/d/1ogI0veozUtUO0qIgG-ce_jz8_hBeKV1Z/view&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;fact sheet&lt;/a&gt; can be seen here.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;img src=&quot;/imgs/cvpr2020_ug2_challenge/hambox.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;img src=&quot;/imgs/cvpr2020_ug2_challenge/leaderboard.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
-&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Challenge" scheme="http://tangxuvis.github.io/tags/Challenge/"/>
     
   </entry>
   

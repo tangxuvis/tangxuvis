@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2020-09-16T03:10:23.458Z</updated>
+  <updated>2021-05-17T08:57:56.644Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DataFun峰会知识图谱与智能创作论坛---阿里文娱视频智能生产技术实践</title>
+    <link href="http://tangxuvis.github.io/2021/03/27/jieshuo_datafun_2021/"/>
+    <id>http://tangxuvis.github.io/2021/03/27/jieshuo_datafun_2021/</id>
+    <published>2021-03-27T06:54:11.000Z</published>
+    <updated>2021-05-17T08:57:56.644Z</updated>
+    
+    <content type="html"><![CDATA[<p align="center"><img src="/imgs/datafun_2021/datafun.jpg" hspace="10"> <br></p><p>DataFun峰会知识图谱与智能创作论坛技术分享，<a href="https://www.huodongxing.com/event/9589360973622?utm_source=%e4%b8%bb%e5%8a%9e%e6%96%b9%e9%a1%b5&utm_medium=&utm_campaign=orgpage" target="_blank" rel="noopener">阿里文娱视频智能生产技术实践</a>。</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;/imgs/datafun_2021/datafun.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
+&lt;/p&gt;
+
+&lt;p&gt;DataFun峰会知识图谱与智能创作论坛技术分享，&lt;a href=&quot;https://www.huodongxing.com/event/9589360973622?utm_source=%e4%b8%bb%e5%8a%9e%e6%96%b9%e9%a1%b5&amp;utm_medium=&amp;utm_campaign=orgpage&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;阿里文娱视频智能生产技术实践&lt;/a&gt;。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>News:Join in Alibaba</title>
@@ -120,7 +143,7 @@
     <link href="http://tangxuvis.github.io/2020/05/07/jiangmen-talk/"/>
     <id>http://tangxuvis.github.io/2020/05/07/jiangmen-talk/</id>
     <published>2020-05-07T06:54:11.000Z</published>
-    <updated>2020-09-16T02:05:04.585Z</updated>
+    <updated>2021-05-17T08:57:58.840Z</updated>
     
     <content type="html"><![CDATA[<p align="center"><img src="/imgs/jiangmen/jiangmen.jpg" hspace="10"> <br></p><p>将门社区技术分享，<a href="https://www.techbeat.net/talk-info?id=384" target="_blank" rel="noopener">techbeat官网链接</a> / <a href="https://www.bilibili.com/video/BV1qk4y1z7cV" target="_blank" rel="noopener">bilibili直播链接</a>。<br>ppt文件分享，<a href="https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA" target="_blank" rel="noopener">Baidu Cloud</a><br>链接:<a href="https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA" target="_blank" rel="noopener">https://pan.baidu.com/s/1cYtc_aDyDFogjTl47VyfvA</a>  密码:sz34</p><a id="more"></a>]]></content>
     
@@ -487,27 +510,6 @@ Pyramidbox 人脸检测模型
     
     
       <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>News:1st place at all 6 set in WiderFace Leaderboard and 1st place at discrete score in FDDB Leaderboard</title>
-    <link href="http://tangxuvis.github.io/2018/03/04/widerface201803/"/>
-    <id>http://tangxuvis.github.io/2018/03/04/widerface201803/</id>
-    <published>2018-03-04T15:36:59.000Z</published>
-    <updated>2019-10-05T17:19:03.542Z</updated>
-    
-    <content type="html"><![CDATA[<p>1st place at all 6 set in <a href="http://shuoyang1213.me/WIDERFACE/" target="_blank" rel="noopener">WiderFace Leaderboard</a>.<br>1st place at discrete score in <a href="http://vis-www.cs.umass.edu/fddb/" target="_blank" rel="noopener">FDDB Leaderboard</a>.</p><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;1st place at all 6 set in &lt;a href=&quot;http://shuoyang1213.me/WIDERFACE/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;WiderFace Leaderboard&lt;/a&gt;.&lt;br&gt;1st place at discrete score in &lt;a href=&quot;http://vis-www.cs.umass.edu/fddb/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;FDDB Leaderboard&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Leaderboard" scheme="http://tangxuvis.github.io/tags/Leaderboard/"/>
     
   </entry>
   

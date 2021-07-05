@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangxuvis.github.io/"/>
-  <updated>2021-05-17T10:43:37.326Z</updated>
+  <updated>2021-07-05T11:42:17.720Z</updated>
   <id>http://tangxuvis.github.io/</id>
   
   <author>
@@ -17,21 +17,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>News:2 papers accepted by ACMMM21</title>
+    <link href="http://tangxuvis.github.io/2021/07/04/acmmm2021/"/>
+    <id>http://tangxuvis.github.io/2021/07/04/acmmm2021/</id>
+    <published>2021-07-04T01:45:08.000Z</published>
+    <updated>2021-07-05T11:42:17.720Z</updated>
+    
+    <content type="html"><![CDATA[<p>Deep Interactive Video Inpainting: an Invisibility Cloak for Harry Potter</p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>In this paper, we propose a new task of deep interactive video inpainting and an application for users interact with the machine. To our knowledge, this is the first deep learning based interactive video inpainting work that only uses a free form user input as guidance (i.e. scribbles) instead of mask annotations for each frame, which has academic, entertainment, and commercial value. With users’ scribbles on a certain frame, it can simultaneously perform interactive video object segmentation and video inpainting tasks throughout the whole video. We utilize a shared spatial-temporal memory module, which combines the interactive video object segmentation and video inpainting tasks into an end-to-end pipeline. In our framework, the past frames with object masks(either the user’s scribbles or the predicted masks) form an external memory, and the current frame as the query is segmented and inpainted using the information in the shared memory. Furthermore, our method allows users to iteratively refine the segmentation results, which can effectively improve the inpainting results where the video object segmentation fails, thus allowing users to obtain high-quality video inpainting results even on challenging sequences. Qualitative and quantitative experimental results demonstrate the superiority of our approach.</p><p>Decoupled IoU Regression for Object Detection</p><h2 id="Abstract-1"><a href="#Abstract-1" class="headerlink" title="Abstract"></a>Abstract</h2><p>Non-maximum suppression(NMS) is widely used in object detection pipelines for removing duplicated bounding boxes. The inconsistency between the confidence for NMS and the real localization confidence seriously affects detection performance. Prior works propose to predict Intersection-over-Union (IoU) between bounding boxes and corresponding ground-truths to improve NMS, while accurately predicting IoU is still a challenging problem. We argue that the complex definition of IoU and feature misalignment make it difficult to predict IoU accurately. In this paper, we propose a novel Decoupled IoU Regression(DIR) model to handle these problems. The proposed DIR decouples the traditional localization confidence metric IoU into two new metrics, Purity and Integrity. Purity reflects the proportion of the object area in the detected bounding box, and Integrity refers to the completeness of the detected object area. Separately predicting Purity and Integrity can divide the complex mapping between the bounding box and its IoU into two clearer mappings and model them independently. In addition, a simple but effective feature realignment approach is also introduced to make the IoU regressor work in a hindsight manner, which can make the target mapping more stable. The proposed DIR can be conveniently integrated with existing two-stage detectors and significantly improve their performance. Through a simple implementation of DIR with Faster R-CNN, we obtain 41.9% AP on MS COCO benchmark under ResNet101 backbone, which outperforms previous methods by a large margin and achieves state-of-the-art.</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Deep Interactive Video Inpainting: an Invisibility Cloak for Harry Potter&lt;/p&gt;
+&lt;h2 id=&quot;Abstract&quot;&gt;&lt;a href=&quot;#Abstract&quot; class=&quot;headerlink&quot; title=&quot;Abstract&quot;&gt;&lt;/a&gt;Abstract&lt;/h2&gt;&lt;p&gt;In this paper, we propose a new task of deep interactive video inpainting and an application for users interact with the machine. To our knowledge, this is the first deep learning based interactive video inpainting work that only uses a free form user input as guidance (i.e. scribbles) instead of mask annotations for each frame, which has academic, entertainment, and commercial value. With users’ scribbles on a certain frame, it can simultaneously perform interactive video object segmentation and video inpainting tasks throughout the whole video. We utilize a shared spatial-temporal memory module, which combines the interactive video object segmentation and video inpainting tasks into an end-to-end pipeline. In our framework, the past frames with object masks(either the user’s scribbles or the predicted masks) form an external memory, and the current frame as the query is segmented and inpainted using the information in the shared memory. Furthermore, our method allows users to iteratively refine the segmentation results, which can effectively improve the inpainting results where the video object segmentation fails, thus allowing users to obtain high-quality video inpainting results even on challenging sequences. Qualitative and quantitative experimental results demonstrate the superiority of our approach.&lt;/p&gt;
+&lt;p&gt;Decoupled IoU Regression for Object Detection&lt;/p&gt;
+&lt;h2 id=&quot;Abstract-1&quot;&gt;&lt;a href=&quot;#Abstract-1&quot; class=&quot;headerlink&quot; title=&quot;Abstract&quot;&gt;&lt;/a&gt;Abstract&lt;/h2&gt;&lt;p&gt;Non-maximum suppression(NMS) is widely used in object detection pipelines for removing duplicated bounding boxes. The inconsistency between the confidence for NMS and the real localization confidence seriously affects detection performance. Prior works propose to predict Intersection-over-Union (IoU) between bounding boxes and corresponding ground-truths to improve NMS, while accurately predicting IoU is still a challenging problem. We argue that the complex definition of IoU and feature misalignment make it difficult to predict IoU accurately. In this paper, we propose a novel Decoupled IoU Regression(DIR) model to handle these problems. The proposed DIR decouples the traditional localization confidence metric IoU into two new metrics, Purity and Integrity. Purity reflects the proportion of the object area in the detected bounding box, and Integrity refers to the completeness of the detected object area. Separately predicting Purity and Integrity can divide the complex mapping between the bounding box and its IoU into two clearer mappings and model them independently. In addition, a simple but effective feature realignment approach is also introduced to make the IoU regressor work in a hindsight manner, which can make the target mapping more stable. The proposed DIR can be conveniently integrated with existing two-stage detectors and significantly improve their performance. Through a simple implementation of DIR with Faster R-CNN, we obtain 41.9% AP on MS COCO benchmark under ResNet101 backbone, which outperforms previous methods by a large margin and achieves state-of-the-art.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>阿里文娱速看短视频自动化生产解决方案</title>
     <link href="http://tangxuvis.github.io/2021/05/27/ali_sukan/"/>
     <id>http://tangxuvis.github.io/2021/05/27/ali_sukan/</id>
     <published>2021-05-27T06:54:11.000Z</published>
-    <updated>2021-05-17T10:43:37.326Z</updated>
+    <updated>2021-07-05T11:42:24.743Z</updated>
     
-    <content type="html"><![CDATA[<p align="center"><img src="/imgs/alibaba/alibaba_sukan.jpg" hspace="10"> <br></p>[阿里文娱速看短视频自动化生产解决方案](https://mp.weixin.qq.com/s/rajmVlbWYl6jLjT_0Ztzaw)<p>随着用户的时间碎片化程度加剧，视频“由长变短”成为一种趋势，信息流场景下的短视频消费需求日益增长，优酷每年为用户提供大量优质视频资源，具备天然的“由长变短”优势，并通过算法研究在速看短视频的自动化生产方面取得突破。</p><p>AI自动剪辑的目标是通过算法手段全自动或半自动进行视频剪辑，借助机器的批量化优势实现批量化生产，能够提升内容生产效率，提升短视频运营和分发效率。目前全网人工短视频生产集中在头部IP，AI自动剪辑可以为腰、尾部版权IP内容进行定向供货，带来新的流量增长点。</p><p>目前优酷已经将AI算法能力赋能到了多个业务场景，比如优酷弹幕看点提取、视频理解标签、剧集前情提要、智能封面图、视频速看解说等。例如，智能封面图能力不但支持短视频智能生产，还作为媒资的基础服务开放给UPGC，应用于优酷号上传、优酷搜索、短/小视频推荐等场景。</p><p>与此同时，还搭建了前情提要“机器生产+人工审核+广告生成”的生产链路，相比纯人工生产的前情提要，新链路将生产时长从天级别压缩到分钟级别，极大地提高了生产效率。</p><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<p align="center"><img src="/imgs/alibaba/alibaba_sukan.jpg" hspace="10"> <br></p><p><a href="https://mp.weixin.qq.com/s/rajmVlbWYl6jLjT_0Ztzaw" target="_blank" rel="noopener">阿里文娱速看短视频自动化生产解决方案</a></p><p>随着用户的时间碎片化程度加剧，视频“由长变短”成为一种趋势，信息流场景下的短视频消费需求日益增长，优酷每年为用户提供大量优质视频资源，具备天然的“由长变短”优势，并通过算法研究在速看短视频的自动化生产方面取得突破。</p><p>AI自动剪辑的目标是通过算法手段全自动或半自动进行视频剪辑，借助机器的批量化优势实现批量化生产，能够提升内容生产效率，提升短视频运营和分发效率。目前全网人工短视频生产集中在头部IP，AI自动剪辑可以为腰、尾部版权IP内容进行定向供货，带来新的流量增长点。</p><p>目前优酷已经将AI算法能力赋能到了多个业务场景，比如优酷弹幕看点提取、视频理解标签、剧集前情提要、智能封面图、视频速看解说等。例如，智能封面图能力不但支持短视频智能生产，还作为媒资的基础服务开放给UPGC，应用于优酷号上传、优酷搜索、短/小视频推荐等场景。</p><p>与此同时，还搭建了前情提要“机器生产+人工审核+广告生成”的生产链路，相比纯人工生产的前情提要，新链路将生产时长从天级别压缩到分钟级别，极大地提高了生产效率。</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
       &lt;p align=&quot;center&quot;&gt;
 &lt;img src=&quot;/imgs/alibaba/alibaba_sukan.jpg&quot; hspace=&quot;10&quot;&gt; &lt;br&gt;
 &lt;/p&gt;
-[阿里文娱速看短视频自动化生产解决方案](https://mp.weixin.qq.com/s/rajmVlbWYl6jLjT_0Ztzaw)
 
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/rajmVlbWYl6jLjT_0Ztzaw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;阿里文娱速看短视频自动化生产解决方案&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;随着用户的时间碎片化程度加剧，视频“由长变短”成为一种趋势，信息流场景下的短视频消费需求日益增长，优酷每年为用户提供大量优质视频资源，具备天然的“由长变短”优势，并通过算法研究在速看短视频的自动化生产方面取得突破。&lt;/p&gt;
 &lt;p&gt;AI自动剪辑的目标是通过算法手段全自动或半自动进行视频剪辑，借助机器的批量化优势实现批量化生产，能够提升内容生产效率，提升短视频运营和分发效率。目前全网人工短视频生产集中在头部IP，AI自动剪辑可以为腰、尾部版权IP内容进行定向供货，带来新的流量增长点。&lt;/p&gt;
 &lt;p&gt;目前优酷已经将AI算法能力赋能到了多个业务场景，比如优酷弹幕看点提取、视频理解标签、剧集前情提要、智能封面图、视频速看解说等。例如，智能封面图能力不但支持短视频智能生产，还作为媒资的基础服务开放给UPGC，应用于优酷号上传、优酷搜索、短/小视频推荐等场景。&lt;/p&gt;
@@ -484,27 +506,6 @@ vot优胜方案
     
     
       <category term="Publications" scheme="http://tangxuvis.github.io/tags/Publications/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>News:1st place at hard set in Widerface leaderboard</title>
-    <link href="http://tangxuvis.github.io/2019/03/04/widerface201903/"/>
-    <id>http://tangxuvis.github.io/2019/03/04/widerface201903/</id>
-    <published>2019-03-04T15:36:59.000Z</published>
-    <updated>2019-10-05T18:28:24.208Z</updated>
-    
-    <content type="html"><![CDATA[<p>1st place at hard set in <a href="http://shuoyang1213.me/WIDERFACE/" target="_blank" rel="noopener">Widerface leaderboard</a>.</p><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;1st place at hard set in &lt;a href=&quot;http://shuoyang1213.me/WIDERFACE/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Widerface leaderboard&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="Leaderboard" scheme="http://tangxuvis.github.io/tags/Leaderboard/"/>
     
   </entry>
   
